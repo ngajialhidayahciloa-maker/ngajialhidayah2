@@ -1,0 +1,6 @@
+{
+  "name": "Al-Hidayah Digital",
+  "description": "Aplikasi Android Buku Penghubung Digital untuk Monitoring Ibadah dan Belajar Mengaji Santri",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
